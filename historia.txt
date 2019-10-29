@@ -1,7 +1,1 @@
-Esta es mi primera linea de texto para este archivo historia.
-
-En este momento escribo la segunda linea de texto de este archivo.
-
-Nuevamente escribo la linea 3 por que la borre con el --hard
-
-Ahora ingreso la linea 4 despues de el .add que hice con --hard
+Inicio nuevamente archivo historia, nuevamente solo linea 1 de texto.
