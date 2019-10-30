@@ -19,3 +19,16 @@ body{
     font-size: 25px;
     text-transform: uppercase;
 }
+#cabecera{
+    background-color: coral;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+    box-shadow: 0px 2px 30px 0px rgba(0, 0, 0, 0.75);
+}
+#cabecera #tagline{
+    font-weight: normal;
+    font-size: 0.8em;
+    padding: 0 0 0 1em;
+}
