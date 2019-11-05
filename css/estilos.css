@@ -37,6 +37,13 @@ body{
 }
 #cabecera #tagline{
     font-weight: normal;
-    font-size: 2em;
-    padding: 0 0 0 0.5em;
+    font-size: 0.8em;
+    padding: 0 0 0 1em;
+}
+#footer{
+    color: white;
+    width: 100%;
+    padding: 1em 0;
+    background-color: cadetblue;
+    font-size: 1.5em;
 }
