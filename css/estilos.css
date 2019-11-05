@@ -1,4 +1,5 @@
 body{
+    background-color: #607D8B;
     align-content: center;
     color: #333;
     text-align: center;
@@ -8,7 +9,15 @@ body{
     margin: 0;
     
 }
+#cabecera #titNombre {
+    font-size: 2em;
+}
+#cabecera #logo{
+    width: 8em;
+    vertical-align: middle;
+}
 #container {
+    background-color: white;
     width: 70%;
     text-align: center;
     border: 1px solid #DDD;
@@ -19,7 +28,7 @@ body{
     text-transform: uppercase;
 }
 #cabecera{
-    background-color: coral;
+    background-color:#444444;
     color: white;
     font-weight: bold;
     margin: 0;
@@ -28,6 +37,7 @@ body{
 }
 #cabecera #tagline{
     font-weight: normal;
+<<<<<<< HEAD
     font-size: 0.8em;
     padding: 0 0 0 1em;
 }
@@ -37,4 +47,8 @@ body{
     padding: 1em 0;
     background-color: cadetblue;
     font-size: 1.5em;
+=======
+    font-size: 2em;
+    padding: 0 0 0 0.5em;
+>>>>>>> header
 }
