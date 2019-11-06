@@ -1,2 +1,3 @@
 Inicio nuevamente archivo historia, nuevamente solo linea 1 de texto.
+master 1
 voy a meter una linea de texto desde el servidor remoto
