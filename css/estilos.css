@@ -37,8 +37,9 @@ body{
 }
 #cabecera #tagline{
     font-weight: normal;
-    font-size: 0.8em;
+    font-size: 1.5em;
     padding: 0 0 0 1em;
+    color: cadetblue;
 }
 #footer{
     color: white;
